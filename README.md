@@ -4,10 +4,10 @@
 
 [<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">](website)
 
-## :computer: Un simple desarrollador  :hash:
+## :computer: Desarrollador  :hash:
 
 - 🔭 Actualmente trabajo en [Searchit](urlEmpresa)
-- 📄 Estoy realizando la ingeniería informática
+- 📄 Estoy cursando ingeniería informática
 - 🌱 Suelo leer sobre desarrollo web, spring boot y flutter
 - 👯 Estoy interesado en el desarrollo web, la inteligencia artificial y los videojuegos
 - ⚡ Me encantan los videojuegos, pero no puedo dedicarlos mucho tiempo 😞
