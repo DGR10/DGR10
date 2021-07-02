@@ -6,7 +6,7 @@
 
 ## :computer: Un simple desarrollador  :hash:
 
-- 🔭 Actualmente trabajo en [INDRA](Searchit)
+- 🔭 Actualmente trabajo en [Searchit](urlEmpresa)
 - 📄 Estoy realizando la ingeniería informática
 - 🌱 Suelo leer sobre desarrollo web, spring boot y flutter
 - 👯 Estoy interesado en el desarrollo web, la inteligencia artificial y los videojuegos
@@ -37,6 +37,6 @@
 <!-- LINKS -->
 
 [website]: #
-[indra]: https://searchit.es
+[urlEmpresa]: https://searchit.es
 [twitterr]: https://twitter.com/Carlos_GM10
 [youtube]: #
