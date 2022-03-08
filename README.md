@@ -7,7 +7,7 @@
 - 🔭 Actualmente trabajo en [Searchit](urlEmpresa)
 - 📄 Estoy cursando ingeniería informática
 - 🌱 Suelo leer sobre desarrollo web, spring boot y flutter
-- 👯 Estoy interesado en el desarrollo web, la inteligencia artificial y los videojuegos
+- 👯 Estoy interesado en el desarrollo web, inteligencia artificial y los videojuegos
 - ⚡ Me encantan los videojuegos, pero no puedo dedicarlos mucho tiempo 😞
 <!-- - 💬 Ask me about web dev and java backend -->
 <!-- - 🤔 I’m looking for help with ... -->
