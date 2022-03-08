@@ -2,8 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Carlos_GM10?color=1DA1F2&label=Carlos%20Guijarro&logo=twitter&style=for-the-badge)](twitterr)
 
-[<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">](website)
-
 ## :computer: Desarrollador  :hash:
 
 - 🔭 Actualmente trabajo en [Searchit](urlEmpresa)
